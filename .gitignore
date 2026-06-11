@@ -1,0 +1,13 @@
+Set-Content .gitignore -Encoding utf8 @"
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+data/raw/
+data/setfit_intent_model/
+checkpoints/
+*.egg-info/
+.DS_Store
+.claude/
+"@
