@@ -11,3 +11,4 @@ checkpoints/
 .DS_Store
 .claude/
 "@
+runs/
